@@ -1,0 +1,6 @@
+-sname try_build
+
+-setcookie try_build_cookie
+
++K true
++A30
