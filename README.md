@@ -34,9 +34,9 @@ Which Version ?
 
 I tested following Erlang/OTP versions:
 
-* esl-erlang-22.0.3-1 build error
-* esl-erlang-22.0.2-1 build error
-* esl-erlang-22.0.1-1 build error
+* esl-erlang-22.0.3-1: build error
+* esl-erlang-22.0.2-1: build error
+* esl-erlang-22.0.1-1: build error
 * esl-erlang-22.0-1: build error
 * esl-erlang-21.3.8.4-1: build OK
 * esl-erlang-21.0-1: build OK
